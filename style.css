@@ -1,0 +1,95 @@
+.root{
+    background-color: white;
+}
+.child{
+    border: 2px;
+    background-color: #33ccff;
+    padding: 30px 20px 10px 50px;
+    margin: 50px 150px 50px 150px;
+    border-radius: 1cqw;
+}
+.child1{
+    border: 2px;
+    background-color: #1EE592;
+    padding: 90px 20px 10px 50px;
+    margin: 50px 150px 50px 150px;
+    border-radius: 1cqw;
+}
+.child2{
+    border: 2px;
+    background-color: #FCE354;
+    padding: 100px 20px 10px 50px;
+    margin: 50px 150px 50px 150px;
+    border-radius: 1cqw;
+}
+.child3{
+    border: 2px;
+    background-color: #33ccff;
+    padding: 100px 20px 10px 50px;
+    margin: 50px 150px 50px 150px;
+    border-radius: 1cqw;
+}
+.text{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-weight:700;
+}
+.text1{
+    font-family:Arial, Helvetica, sans-serif ;
+    font-weight:normal;
+}
+.btn{
+    padding: 10px 20px 10px 20px;
+    background-color: white;
+    font-weight: bold;
+    border: none;
+    border-radius:9dvb;
+    margin: 10px 50px 10px 0px;
+}
+.btn3{
+    padding: 10px 20px 10px 20px;
+    background-color: white;
+    font-weight: bold;
+    border: none;
+    border-radius:9dvb;
+    margin: 10px 50px 10px 40px;
+}
+.btn:hover{
+    font-size: 21px;
+    cursor: pointer;
+}
+.btn1{
+    background-color: #33ccff;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 2cqw;
+}
+.btn2{
+    background-color: #1EE592;
+    border: none;
+    font-size: 20px;
+    margin-bottom: 2cqw;
+}
+.btn1:hover{
+    font-size: 21px;
+    cursor: pointer;
+}
+.btn2:hover{
+    font-size: 21px;
+    cursor: pointer;
+}
+.btn3:hover{
+     border: 1px solid black;
+    cursor: pointer;
+}
+.waze {
+    padding: 10px 0px 0px 1000px;
+    bottom: -12.5px;
+}
+.waze1 {
+    padding: 0px 0px 0px 900px;
+    bottom: -12.5px;
+}
+.waze3{
+    padding: 0px 0px 0px 00px;
+    bottom: -12.5px;
+}
